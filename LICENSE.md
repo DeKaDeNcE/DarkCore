@@ -20,7 +20,7 @@ For purposes of the foregoing, Sell means practicing any or all of the rights gr
 
 - "You" shall mean the Licensee of rights set out in this License.
 
-- "Code" shall mean Source Code made available voluntary at DeKaDeNcE's sole discretion, for access under this License at [DeKaDeNcE/DarkCore/License](https://github.com/DeKaDeNcE/DarkCore/License.md).
+- "Code" shall mean Source Code made available voluntary at DeKaDeNcE's sole discretion, for access under this License at [DeKaDeNcE/DarkCore/License](https://github.com/DeKaDeNcE/DarkCore/blob/main/LICENSE.md).
 
 - "Software" shall mean the binary result of the compilation of the code provided.
 
