@@ -14,7 +14,7 @@ If you take advantage of these rights, you accept this License. If you do not ac
 
 Without limiting other conditions in this License, the grant of rights under the License will not include, and this License does not grant to you, right to Sell the Software or the Source Code.
 
-For purposes of the foregoing, Sell means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration a product or service whose value derives, entirely or substantially, from the functionality of the Software.
+For purposes of the foregoing, Sell means practicing any or all of the rights granted to you under the License to provide to third parties, for a fee or other consideration a product or service whose value derives, entirely or substantially, from the functionality of the Software and Source Code.
 
 ## 1. Definitions
 
@@ -40,7 +40,7 @@ For purposes of the foregoing, Sell means practicing any or all of the rights gr
 
 1. This License does not grant you any rights to use DeKaDeNcE's Name, Logo, Patents or Trademarks, and you must not in any way indicate you are authorised to speak on behalf of DeKaDeNcE.
 
-2. If you issue proceedings in any jurisdiction against DeKaDeNcE because you consider DeKaDeNcE has infringed Copyright or any Patent or Trademark right in respect of the software and code (including any joinder or counterclaim), your License to the code is automatically terminated.
+2. If you issue proceedings in any jurisdiction against DeKaDeNcE because you consider DeKaDeNcE has infringed Copyright or any Patent or Trademark right in respect of the software and code (including any joinder or counterclaim), your License to the software and code is automatically terminated.
 
 3. THE SOFTWARE AND CODE ARE PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 
