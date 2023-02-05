@@ -14,6 +14,7 @@ This MMORPG Framework is intended to be used for non-profit educational use and 
 
 ---
 [![This list is not always up to date.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/not-up-to-date.svg)](#-game-support)
+
 [![These logos, images and all related materials are copyright to their respective owners.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/logo-disclaimer.svg)](#-game-support)
 
 |                                                                          Logo                                                                           |  Short Name   | Year |      Version       | Login | World |
@@ -31,10 +32,9 @@ This MMORPG Framework is intended to be used for non-profit educational use and 
 |           <img loading="lazy" height="24" alt="" src="https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/tbc.png" alt="TBC" />            |      TBC      | 2007 |       2.4.3        |   ❌   |   ❌   |
 |       <img loading="lazy" height="24" alt="" src="https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/classic.png" alt="Classic" />        |    Classic    | 2019 |       1.14.3       |   ❌   |   ❌   |
 |       <img loading="lazy" height="24" alt="" src="https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/vanilla.png" alt="Vanilla" />        |    Vanilla    | 2004 |       1.12.1       |   ❌   |   ❌   |
-[![World of Warcraft® and Blizzard Entertainment® are all trademarks or registered trademarks of Blizzard Entertainment in the United States and/or other countries.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/blizz-disclaimer.svg)](#-game-support)
-
 ---
 
+[![World of Warcraft® and Blizzard Entertainment® are all trademarks or registered trademarks of Blizzard Entertainment in the United States and/or other countries.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/blizz-disclaimer.svg)](#-game-support)
 </details>
 
 ## 📚 <sub>3rd-party libraries used</sub>
@@ -43,6 +43,7 @@ This MMORPG Framework is intended to be used for non-profit educational use and 
 
 ---
 [![This list is not always up to date.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/not-up-to-date.svg)](#-libraries-used)
+
 [![These logos, images and all related materials are copyright to their respective owners.](https://raw.githubusercontent.com/DeKaDeNcE/DarkCore/main/images/logo-disclaimer.svg)](#-libraries-used)
 
 | Name                         | Website                                                                                                                            | Repository                                                                                                    | License                                                                                        |
